@@ -1,2 +1,26 @@
-# pratica1
-pratica1
+Tecnologias Utilizadas
+Java 17+
+Spring Boot
+Maven
+
+Estrutura do Projeto
+O projeto contém duas classes principais:
+
+`DemoApplication.java`
+Classe principal que inicia a aplicação Spring Boot.
+Contém um endpoint: 
+`GET /api/hello1` → Retorna `"Hello Word!"`.
+
+`HelloController.java`
+Classe que define mais dois endpoints:
+`GET /kaique` → Retorna `"hello world"`.
+
+Como Executar o Projeto
+1. Clone o repositório: https://github.com/seu-usuario/seu-repositorio.git
+2. cd nome-do-projeto
+3. Compile e execute a aplicação
+
+Acesse o navegador e utilize o seguinte endereço:
+http://localhost:8080/kaique
+Após acessá-lo a mensagem "Hello world" será exibida
+   
