@@ -16,9 +16,8 @@ Classe que define mais dois endpoints:
 `GET /kaique` → Retorna `"hello world"`.
 
 Como Executar o Projeto
-1. Clone o repositório: https://github.com/seu-usuario/seu-repositorio.git
-2. cd nome-do-projeto
-3. Compile e execute a aplicação
+1. Clone o repositório: C:\Users\Kaique\Downloads\demo>
+2. Compile e execute a aplicação
 
 Acesse o navegador e utilize o seguinte endereço:
 http://localhost:8080/kaique
